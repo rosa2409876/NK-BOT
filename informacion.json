@@ -1,13 +1,13 @@
 {
-	"prefijo": ".",
+	"prefijo": "+1",
 	"BotControlador": "51948258899@s.whatsapp.net",
-        "NumeroBot": "51995386439",
+        "NumeroBot": "+1 (681) 214-1611",
 	"CoCreador": "Matt_M",
-	"VCardX": "+51995386439",
-	"VCardY": "+51 995 386 439",
-	"MyPais": "51",
-	"NombreBot": "NK-BOT",
-	"LimiteEnGrupos": "2",
+	"VCardX": "+1 (681) 214-1611",
+	"VCardY": "+1 (681) 214-1611",
+	"MyPais": "39",
+	"NombreBot": "ᗷOT ᑭᗩᘔᘔO ՏᘜᖇᗩᐯᗩTO
+	"LimiteEnGrupos": "257",
 	"LimiteComandos": "666999",
-	"TusRedesSociales": "*~>[Redes sociales...]*\n\n~>[YouTube: ]\n\n~>[Facebook: ]\n\n~>[Otras redes sociales: ]"
+	"TusRedesSociales": 
 }
